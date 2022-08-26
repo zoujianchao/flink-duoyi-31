@@ -1,0 +1,7 @@
+
+1.map算子的使用，特殊情况：就是使用Lambda表达式时，如果返回的数据类型中有泛型，必须加returns
+2.flatMap算子的使用，如果使用Lambda表达式时，必须加returns指定类型，Collector中有泛型
+3.了解map、flatMap底层怎样实现的（transform）
+4.keyBy的多种用法
+5.KeyBy底层执行的原理
+6.reduce方法使用

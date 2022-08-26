@@ -1,0 +1,5 @@
+
+1.编写wordcount，java和scala的都有会写
+2.SocketSource，永远是一个非并行的Source
+3.KafkaSource，多并行的Source，可以自己设置并行度
+4.自定义RichParallelSource
